@@ -1,5 +1,5 @@
 # **Improving Satellite and Airplane Detection from Telescope Systems using Computer Vision**  
-**Name(s): [Your Name / Group Members’ Names]**
+**Author: Kai Garcia**
 
 ---
 
